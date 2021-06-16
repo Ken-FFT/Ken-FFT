@@ -18,3 +18,12 @@ Python, data preprocessing
 
 The project is to process a semi-structured file about a midwesterner's favorite tweets. This file is a jsonl file from data.world (https://data.world/a2liz/favorited-tweets). 
 
+Final Project: Amazon Fine Food Recommendation System
+
+Member: QZ
+
+Topic:
+Python, NLP, recommendation system
+
+As a final project, a recommendation system based on the reviews is a good choice to explore the structured data and unstructured data. The reviews come from the Kaggle dataset 
+(https://www.kaggle.com/snap/amazon-fine-food-reviews). The dataset consists of over 500,000 rows and 10 columns dating from 1999 to 2012.
