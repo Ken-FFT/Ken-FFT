@@ -20,7 +20,7 @@ The project is to process a semi-structured file about a midwesterner's favorite
 
 Final Project: Amazon Fine Food Recommendation System
 
-Member: QZ
+Member: QZ, L
 
 Topic:
 Python, NLP, recommendation system
