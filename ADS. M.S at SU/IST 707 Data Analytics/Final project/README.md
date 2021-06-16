@@ -1,5 +1,7 @@
 Name: What is A Good Dota 2 Player? & How to Win?
+
 Member: Ken-FFT
+
 Topic: R, data preprocessing, k-means clustering, association rules, data visualization
 
 Background
