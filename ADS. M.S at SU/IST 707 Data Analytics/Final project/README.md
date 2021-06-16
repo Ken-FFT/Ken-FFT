@@ -7,7 +7,7 @@ Topic: R, data preprocessing, k-means clustering, association rules, data visual
 Background
 
 As an elder Dota2 player, I was trying to apply data science on this game. 
-Dota 2 Matches (Explore player behavior and predict match outcomes). The size of the datasets which contain more than 100 attributes from 50000 matches is 1.31GB
+Dota 2 Matches (Explore player behavior and predict match outcomes) https://www.kaggle.com/devinanzelmo/dota-2-matches?select=teamfights_players.csv. The size of the datasets which contain more than 100 attributes from 50000 matches is 1.31GB
 Most of the attributes are numeric. The datasets include the data of the matches’ outcomes, the players’ ratings, the heroes’ information, the logs of purchase, etc.
 
 Aim
